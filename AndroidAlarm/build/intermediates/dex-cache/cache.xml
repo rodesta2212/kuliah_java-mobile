@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c84b356366b717c4600383823eb3c5fc5703d5e0">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6ef0f60ec25a2010c44cbcef49b64274b3940a2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_ef9a0ff447df5d2b26bd366ee36afcb1d8946767\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_ebc1677243a9d09fd428fa26d15e8f1d63d99184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_55634a9359c8947a64e5fad7cf034f0341021041\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_1c8e0f5ddf64ec82c983bc3ae5e35fe3e92566d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_8cbb2e2283b9b7626942889d85bc6892262fdbbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_646c7ffd47db38e316da268a15c9931a01452534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="61e2c6dd15757adda2876b52ed718e13de582f7a">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_701dd16e93c2da261d43e8e59e45cd0e46c9ccfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_0d815c2eac01bc9e532da31409180cd5da520006\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_c83ab2409d770f2f2c0c7121301c3e0a556a2e61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_1ff3018ed55a250a6658f90b931fff3e87421ead\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\BelajarAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_c8175023f526e235c83181901fbc44ef35ed861b\classes.dex" />
+    </item>
+
+</items>

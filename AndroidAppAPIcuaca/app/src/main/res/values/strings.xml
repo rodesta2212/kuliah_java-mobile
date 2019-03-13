@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cuaca Hari ini ?</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="location">Lokasi</string>
+    <string name="country">Negara</string>
+    <string name="temperature">Suhu</string>
+    <string name="humidity">Kelembaban</string>
+    <string name="pressure">Tekanan</string>
+    <string name="weather">Cuaca</string>
+</resources>

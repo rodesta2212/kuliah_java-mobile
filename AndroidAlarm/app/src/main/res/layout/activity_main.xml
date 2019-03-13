@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" /> // pada bagian ini saya sengaja membuat file string agar lebih nyaman saya gunakan
+    <Button
+        android:id="@+id/btSet"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/label_button"/> // pada bagian ini saya sengaja membuat file string agar lebih nyaman saya gunakan
+    <Button
+        android:id="@+id/btCancel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/batal"/> // pada bagian ini saya sengaja membuat file string agar lebih nyaman saya gunakan
+    <TextView
+        android:id="@+id/promptID"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

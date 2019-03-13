@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f27cd6a23e3bc470711c1244cbfee617af762468">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5ea15c396a78e09aacab407180aea78812eb27e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_8304f1af6abc25eee1f6d0e377ce8db74eb4773b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_0d815c2eac01bc9e532da31409180cd5da520006\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24fc5c926e7165c9da82b68463a02292d0d96e0f">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3097178082341f6075de951ae09b1e3fa361fcdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_0f64033f07e9cd972fec7c5e562295b6671df433\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_51873c15248292a4cf0e38e6cf53d590396f721f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_3ec97706b515775a40cb38069d6b88da638c6524\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_75098bf8ad5e68484745d8bbc0b4f174425ffbd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_f44272da0737a6bd83db702845ef43d074467ed7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_f7421c4e5126ecc4a6f6d51b00bea9b918f94ffd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_1046db6307f979624d32b0ef8919437573243957\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_dab0f45b62816889d1b06cd9106f92f84ddbcba1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_722641b4b0aef03daac93a6df8d6e08ca6335f15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_6dec8a27939c4564a821f6783a41265cfed47f22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\MYWINDOWS\AndroidStudioProjects\Pertemuan10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_482bba440d42398f7af9a12976df41a7dba5270a\classes.dex" />
+    </item>
+
+</items>
